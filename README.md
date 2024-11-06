@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**jinnyshin54/jinnyshin54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jinnyshin54/Test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
